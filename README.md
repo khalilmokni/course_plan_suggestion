@@ -28,3 +28,7 @@ Please note that the url query parameter must be a valid URL and should point to
 
 You can test the API in http://127.0.0.1:8000/docs
 
+![doc_screenshot_1](img1.png)
+![doc_screenshot_2](img2.png)
+
+
