@@ -9,6 +9,8 @@ To use the API, you'll need to install the required dependencies listed in the `
 ```bash
 pip install -r requirements.txt
 ```
+Then set your openai_api_key in app/config.py
+
 ## Usage
 running the api server
 ```bash
